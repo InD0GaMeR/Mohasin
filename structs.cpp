@@ -43,6 +43,5 @@ int main() {
     }
     cout << student[0].name;
 
-    s
     return 0;
 }
